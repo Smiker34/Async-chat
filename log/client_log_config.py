@@ -4,7 +4,7 @@ import sys
 log = logging.getLogger('client')
 
 log.setLevel(logging.INFO)
-file_handler = logging.FileHandler("../log/client logs.txt")
+file_handler = logging.FileHandler("../log/client logs.log")
 log_format = logging.Formatter("%(levelname)-10s %(asctime)s %(message)s")
 file_handler.setFormatter(log_format)
 log.addHandler(file_handler)
