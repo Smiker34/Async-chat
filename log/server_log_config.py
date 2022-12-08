@@ -5,7 +5,7 @@ from datetime import datetime
 log = logging.getLogger('server')
 
 log.setLevel(logging.INFO)
-file_handler = logging.FileHandler("../log/{:%Y-%m-%d} server logs.txt".format(datetime.now()))
+file_handler = logging.FileHandler("../log/{:%Y-%m-%d} server logs.log".format(datetime.now()))
 log_format = logging.Formatter("%(levelname)-10s %(asctime)s %(message)s")
 file_handler.setFormatter(log_format)
 log.addHandler(file_handler)
