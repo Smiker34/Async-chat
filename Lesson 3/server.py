@@ -7,8 +7,9 @@ sys.path.append('../log')
 
 
 from server_log_config import *
+from log_decorator import *
 
-
+@log
 def message_response(message):
     message = json.loads(message.decode('utf-8'))
     message_log(message)

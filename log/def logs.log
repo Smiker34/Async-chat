@@ -1,0 +1,8 @@
+2022-12-09 17:47:21,152 Function create_message was called from client_main
+2022-12-09 17:47:21,153 Function create_message((), {}), return b'{"action": "presence", "time": "1670597241.1335726", "user": {"account_name": "DEFAULT"}}'
+2022-12-09 17:47:21,172 Function message_response was called from server_main
+2022-12-09 17:47:21,172 Function message_response((b'{"action": "presence", "time": "1670597241.1335726", "user": {"account_name": "DEFAULT"}}',), {}), return b'{"response": "200", "time": "1670597241.153582", "message": "OK"}'
+2022-12-09 17:47:21,174 Function read_response was called from client_main
+2022-12-09 17:47:21,174 Function read_response was called from client_main
+2022-12-09 17:47:21,179 Function read_response((b'{"response": "200", "time": "1670597241.153582", "message": "OK"}',), {}), return ['200', 'OK']
+2022-12-09 17:47:21,179 Function read_response((b'{"response": "200", "time": "1670597241.153582", "message": "OK"}',), {}), return ['200', 'OK']

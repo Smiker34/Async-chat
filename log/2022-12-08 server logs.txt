@@ -1,5 +1,0 @@
-INFO       2022-12-08 00:23:13,809 host: localhost, port: 7777
-INFO       2022-12-08 00:23:15,772 message received
-INFO       2022-12-08 00:23:15,772 {'action': 'presence', 'time': '1670448195.7725198', 'user': {'account_name': 'DEFAULT'}}
-INFO       2022-12-08 00:23:15,772 {'response': '200', 'time': '1670448195.7725198', 'message': 'OK'}
-INFO       2022-12-08 00:23:15,772 response_sent

@@ -1,0 +1,6 @@
+INFO       2022-12-09 17:47:21,130 host: localhost, port: 7777
+INFO       2022-12-09 17:47:21,133 Message created
+INFO       2022-12-09 17:47:21,153 message_sent
+INFO       2022-12-09 17:47:21,172 response received
+INFO       2022-12-09 17:47:21,173 Response read
+INFO       2022-12-09 17:47:21,179 200 OK

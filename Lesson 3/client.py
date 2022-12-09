@@ -7,8 +7,9 @@ sys.path.append('../log')
 
 
 from client_log_config import *
+from log_decorator import *
 
-
+@log
 def create_message(account_name="DEFAULT"):
     message_created_logging(account_name)
 
@@ -21,7 +22,7 @@ def create_message(account_name="DEFAULT"):
     }
     return json.dumps(message).encode('utf-8')
 
-
+@log
 def read_response(response):
     response_read_log()
     response = json.loads(response.decode('utf-8'))
