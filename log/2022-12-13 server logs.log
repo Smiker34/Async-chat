@@ -1,0 +1,423 @@
+INFO       2022-12-13 21:14:32,004 host: localhost, port: 7777
+INFO       2022-12-13 21:14:32,227 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:32,227 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:32,427 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:32,427 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:32,627 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:32,627 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:32,833 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:32,833 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:33,033 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:33,033 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:33,234 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:33,234 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:33,435 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:33,435 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:33,636 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:33,636 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:33,836 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:33,836 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:34,036 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:34,036 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:34,237 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:34,237 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:14:34,303 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:34,304 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:34,504 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:34,504 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:34,705 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:34,705 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:34,906 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:34,906 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:35,107 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:35,107 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:35,309 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:35,309 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:35,510 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:35,510 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:35,711 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:35,711 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:35,912 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:35,912 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:36,113 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:36,113 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:36,314 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:36,314 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:36,516 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:36,516 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:36,717 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:36,717 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:36,919 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:36,919 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:37,120 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:37,120 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:37,322 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:37,322 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:37,523 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:37,523 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:37,724 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:37,724 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:37,926 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:37,926 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:38,127 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:38,127 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:38,328 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:38,329 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:38,530 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:38,530 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:38,731 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:38,731 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:38,932 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:38,932 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:39,134 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:39,134 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:39,336 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:39,336 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:39,537 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:39,537 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:39,738 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:39,738 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:39,940 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:39,940 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:14:40,118 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:40,119 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:40,319 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:40,319 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:40,521 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:40,521 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:40,722 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:40,722 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:40,923 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:40,923 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:41,125 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:41,125 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:41,327 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:41,327 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:41,528 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:41,528 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:41,730 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:41,730 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:41,932 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:41,932 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:42,133 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:42,133 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:42,335 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:42,336 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:42,537 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:42,537 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:42,738 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:42,738 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:42,939 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:42,939 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:43,141 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:43,141 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:43,342 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:43,342 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:43,544 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:43,544 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:43,745 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:43,745 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:43,947 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:43,948 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:43,963 Function create_message was called from client_main
+INFO       2022-12-13 21:14:43,964 Function create_message(('Test', 'write_client'), {}), return b'{"action": "msg", "time": "1670955283.9440074", "user": "write_client", "message": "Test"}'
+INFO       2022-12-13 21:14:44,148 message received
+INFO       2022-12-13 21:14:44,148 {'action': 'msg', 'time': '1670955283.9440074', 'user': 'write_client', 'message': 'Test'}
+INFO       2022-12-13 21:14:44,149 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:44,149 Function read_requests(([<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return {<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>: {'action': 'msg', 'time': '1670955283.9440074', 'user': 'write_client', 'message': 'Test'}}
+INFO       2022-12-13 21:14:44,149 Function write_responses was called from server_main
+INFO       2022-12-13 21:14:44,150 Function write_responses(({<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>: {'action': 'msg', 'time': '1670955283.9440074', 'user': 'write_client', 'message': 'Test'}}, [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:44,350 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:44,350 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:44,552 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:44,552 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:44,753 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:44,753 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:44,955 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:44,955 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:45,156 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:45,156 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:45,358 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:45,358 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:45,559 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:45,559 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:45,761 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:45,761 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:45,962 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:45,962 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:46,164 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:46,164 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:46,365 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:46,365 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:46,566 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:46,566 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:46,768 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:46,768 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:46,969 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:46,969 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:47,171 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:47,171 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:47,372 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:47,372 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:47,573 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:47,573 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:47,775 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:47,775 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:47,976 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:47,976 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:48,178 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:48,178 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:48,379 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:48,379 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:48,580 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:48,580 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:48,782 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:48,782 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:48,983 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:48,983 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:49,183 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:49,183 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:49,384 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:49,384 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:49,586 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:49,586 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:49,787 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:49,787 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:49,989 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:49,989 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:50,190 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:50,190 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:50,392 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:50,392 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:50,593 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:50,593 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:50,795 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:50,795 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:50,996 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:50,996 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:51,197 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:51,197 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:51,398 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:51,398 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:51,600 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:51,600 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:51,802 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:51,802 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:52,004 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:52,004 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:52,205 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:52,205 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:52,407 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:52,407 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:52,608 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:52,608 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:52,809 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:52,809 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:53,010 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:53,010 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:53,212 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:53,212 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:53,413 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:53,413 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:53,614 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:53,614 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:53,816 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:53,816 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:54,017 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:54,017 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:54,219 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:54,219 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:54,421 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:54,421 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:54,622 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:54,622 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:54,823 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:54,823 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:55,025 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:55,025 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:55,226 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:55,226 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:55,427 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:55,427 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:55,628 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:55,628 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:55,830 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:55,830 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:56,032 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:56,032 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:56,233 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:56,233 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:56,434 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:56,434 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:56,635 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:56,636 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:56,837 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:56,837 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:57,038 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:57,038 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:57,240 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:57,240 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:57,401 Function create_message was called from client_main
+INFO       2022-12-13 21:14:57,401 Function create_message(('Some text', 'write_client'), {}), return b'{"action": "msg", "time": "1670955297.4013226", "user": "write_client", "message": "Some text"}'
+INFO       2022-12-13 21:14:57,442 message received
+INFO       2022-12-13 21:14:57,442 {'action': 'msg', 'time': '1670955297.4013226', 'user': 'write_client', 'message': 'Some text'}
+INFO       2022-12-13 21:14:57,442 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:57,443 Function read_requests(([<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return {<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>: {'action': 'msg', 'time': '1670955297.4013226', 'user': 'write_client', 'message': 'Some text'}}
+INFO       2022-12-13 21:14:57,443 Function write_responses was called from server_main
+INFO       2022-12-13 21:14:57,444 Function write_responses(({<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>: {'action': 'msg', 'time': '1670955297.4013226', 'user': 'write_client', 'message': 'Some text'}}, [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:57,645 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:57,645 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:57,846 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:57,846 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:58,048 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:58,048 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:58,250 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:58,250 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:58,450 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:58,450 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:58,652 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:58,652 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:58,854 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:58,854 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:59,055 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:59,055 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:59,257 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:59,257 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:59,459 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:59,459 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:59,660 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:59,660 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:14:59,862 Function read_requests was called from server_main
+INFO       2022-12-13 21:14:59,862 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:00,064 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:00,064 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:00,264 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:00,264 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:00,466 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:00,466 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:00,667 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:00,667 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:00,869 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:00,869 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:01,070 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:01,070 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:01,272 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:01,272 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:01,379 Function create_message was called from client_main
+INFO       2022-12-13 21:15:01,379 Function create_message(('Some more text', 'write_client'), {}), return b'{"action": "msg", "time": "1670955301.3791428", "user": "write_client", "message": "Some more text"}'
+INFO       2022-12-13 21:15:01,474 message received
+INFO       2022-12-13 21:15:01,474 {'action': 'msg', 'time': '1670955301.3791428', 'user': 'write_client', 'message': 'Some more text'}
+INFO       2022-12-13 21:15:01,474 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:01,475 Function read_requests(([<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return {<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>: {'action': 'msg', 'time': '1670955301.3791428', 'user': 'write_client', 'message': 'Some more text'}}
+INFO       2022-12-13 21:15:01,475 Function write_responses was called from server_main
+INFO       2022-12-13 21:15:01,476 Function write_responses(({<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>: {'action': 'msg', 'time': '1670955301.3791428', 'user': 'write_client', 'message': 'Some more text'}}, [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:01,677 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:01,677 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:01,878 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:01,878 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:02,080 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:02,080 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:02,282 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:02,282 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:02,483 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:02,483 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:02,685 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:02,685 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:02,886 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:02,886 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:03,088 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:03,088 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:03,290 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:03,290 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:03,491 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:03,491 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:03,693 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:03,693 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:03,895 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:03,895 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:04,096 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:04,096 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:04,298 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:04,298 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:04,499 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:04,499 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:04,701 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:04,701 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:04,902 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:04,902 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>, <socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>]), {}), return None
+INFO       2022-12-13 21:15:05,103 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:05,103 Function read_requests(([<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58732)>], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return {}
+INFO       2022-12-13 21:15:05,304 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:05,304 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:05,505 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:05,505 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:05,706 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:05,706 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:05,907 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:05,907 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:06,107 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:06,107 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:06,308 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:06,308 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:06,509 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:06,509 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:06,710 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:06,710 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:06,911 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:06,911 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:07,112 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:07,113 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:07,314 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:07,314 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:07,514 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:07,514 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:07,715 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:07,715 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:07,915 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:07,915 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:08,116 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:08,116 Function read_requests(([], [<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>]), {}), return None
+INFO       2022-12-13 21:15:08,317 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:08,317 Function read_requests(([<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58731)>], []), {}), return {}
+INFO       2022-12-13 21:15:08,518 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:08,518 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:08,720 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:08,720 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:08,921 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:08,921 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:09,121 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:09,121 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:09,321 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:09,321 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:09,522 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:09,522 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:09,722 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:09,722 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:09,923 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:09,923 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:10,124 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:10,124 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:10,325 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:10,325 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:10,525 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:10,525 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:10,726 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:10,726 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:10,927 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:10,927 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:11,127 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:11,127 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:11,328 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:11,328 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:11,529 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:11,529 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:11,729 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:11,729 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:11,930 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:11,930 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:12,130 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:12,130 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:12,331 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:12,331 Function read_requests(([], []), {}), return None
+INFO       2022-12-13 21:15:12,532 Function read_requests was called from server_main
+INFO       2022-12-13 21:15:12,532 Function read_requests(([], []), {}), return None
