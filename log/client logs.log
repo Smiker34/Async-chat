@@ -1,0 +1,17 @@
+INFO       2022-12-13 21:14:34,299 host: localhost, port: 7777
+INFO       2022-12-13 21:14:40,114 host: localhost, port: 7777
+INFO       2022-12-13 21:14:43,944 Message created
+INFO       2022-12-13 21:14:43,964 message_sent
+INFO       2022-12-13 21:14:44,149 response received
+INFO       2022-12-13 21:14:44,149 Response read
+INFO       2022-12-13 21:14:44,149 write_client Test
+INFO       2022-12-13 21:14:57,400 Message created
+INFO       2022-12-13 21:14:57,401 message_sent
+INFO       2022-12-13 21:14:57,443 response received
+INFO       2022-12-13 21:14:57,443 Response read
+INFO       2022-12-13 21:14:57,448 write_client Some text
+INFO       2022-12-13 21:15:01,378 Message created
+INFO       2022-12-13 21:15:01,379 message_sent
+INFO       2022-12-13 21:15:01,475 response received
+INFO       2022-12-13 21:15:01,475 Response read
+INFO       2022-12-13 21:15:01,475 write_client Some more text
