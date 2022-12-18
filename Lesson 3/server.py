@@ -7,7 +7,7 @@ import select
 sys.path.append('../log')
 
 
-from server_log_config import *
+from server_log_config import logger
 from log_decorator import *
 
 
@@ -17,9 +17,9 @@ def read_requests(r_clients, all_clients):
     for sock in r_clients:
         try:
             data = json.loads(sock.recv(1024).decode('utf-8'))
-            message_receive_log()
+            logger.info('message received')
             responses[sock] = data
-            message_log(data)
+            logger.info(f'{data}')
         except:
             print('Клиент {} {} отключился'.format(sock.fileno(), sock.getpeername()))
             all_clients.remove(sock)
@@ -43,8 +43,20 @@ def write_responses(requests, w_clients, all_clients):
 def server_main():
     clients = []
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server:
+        try:
+            addr = sys.argv[1]
+        except IndexError:
+            addr = 'localhost'
+        try:
+            port = int(sys.argv[2])
+        except IndexError:
+            port = 7777
+        except ValueError:
+            logger.critical("Incorrect port")
+            exit()
+        logger.info(f'host: {addr}, port: {port}')
         server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-        server.bind(host_port_log())
+        server.bind((addr, port))
         server.listen(5)
         server.settimeout(0.2)
         while True:
