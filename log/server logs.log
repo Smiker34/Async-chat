@@ -1,0 +1,7 @@
+2022-12-18 12:45:08,462 INFO server.py host: localhost, port: 7777
+2022-12-18 12:45:10,879 INFO server.py message received
+2022-12-18 12:45:10,880 INFO server.py {'action': 'presence', 'time': '1671356710.8581233', 'user': {'account_name': 'DEFAULT'}}
+2022-12-18 12:45:10,880 INFO server.py {'response': '200', 'time': '1671356710.8801434', 'message': 'OK'}
+2022-12-18 12:45:10,901 INFO log_decorator.py Function message_response was called from server_main
+2022-12-18 12:45:10,901 INFO log_decorator.py Function message_response((b'{"action": "presence", "time": "1671356710.8581233", "user": {"account_name": "DEFAULT"}}',), {}), return b'{"response": "200", "time": "1671356710.8801434", "message": "OK"}'
+2022-12-18 12:45:10,901 INFO server.py response_sent

@@ -1,43 +1,21 @@
 import logging
 import sys
-from datetime import datetime
+import logging.handlers
 
-log = logging.getLogger('server')
+logger = logging.getLogger('server')
 
-log.setLevel(logging.INFO)
-file_handler = logging.FileHandler("../log/{:%Y-%m-%d} server logs.log".format(datetime.now()))
-log_format = logging.Formatter("%(levelname)-10s %(asctime)s %(message)s")
+logger.setLevel(logging.INFO)
+
+file_handler = logging.handlers.TimedRotatingFileHandler("../log/server logs.log", encoding='utf8', interval=1, when='D')
+
+log_format = logging.Formatter('%(asctime)s %(levelname)s %(filename)s %(message)s')
+
 file_handler.setFormatter(log_format)
-log.addHandler(file_handler)
+logger.addHandler(file_handler)
 
 
-def message_receive_log():
-    log.info('message received')
-
-
-def message_log(message):
-    log.info(f'{message}')
-
-
-def response_log(response):
-    log.info(f"{response}")
-
-
-def response_sent_log():
-    log.info('response_sent')
-
-
-def host_port_log():
-    try:
-        addr = sys.argv[1]
-    except IndexError:
-        addr = 'localhost'
-    try:
-        port = int(sys.argv[2])
-    except IndexError:
-        port = 7777
-    except ValueError:
-        log.critical("Incorrect port")
-        exit()
-    log.info(f'host: {addr}, port: {port}')
-    return (addr, port)
+if __name__ == '__main__':
+    logger.critical('Критическая ошибка')
+    logger.error('Ошибка')
+    logger.debug('Отладочная информация')
+    logger.info('Информационное сообщение')
