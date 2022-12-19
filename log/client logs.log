@@ -1,17 +1,10 @@
-INFO       2022-12-13 21:14:34,299 host: localhost, port: 7777
-INFO       2022-12-13 21:14:40,114 host: localhost, port: 7777
-INFO       2022-12-13 21:14:43,944 Message created
-INFO       2022-12-13 21:14:43,964 message_sent
-INFO       2022-12-13 21:14:44,149 response received
-INFO       2022-12-13 21:14:44,149 Response read
-INFO       2022-12-13 21:14:44,149 write_client Test
-INFO       2022-12-13 21:14:57,400 Message created
-INFO       2022-12-13 21:14:57,401 message_sent
-INFO       2022-12-13 21:14:57,443 response received
-INFO       2022-12-13 21:14:57,443 Response read
-INFO       2022-12-13 21:14:57,448 write_client Some text
-INFO       2022-12-13 21:15:01,378 Message created
-INFO       2022-12-13 21:15:01,379 message_sent
-INFO       2022-12-13 21:15:01,475 response received
-INFO       2022-12-13 21:15:01,475 Response read
-INFO       2022-12-13 21:15:01,475 write_client Some more text
+2022-12-18 14:28:28,514 INFO read-write_client.py host: localhost, port: 7777
+2022-12-18 14:28:28,518 INFO read-write_client.py Message created
+2022-12-18 14:28:31,567 INFO read-write_client.py message_sent
+2022-12-18 14:28:31,734 INFO read-write_client.py response received
+2022-12-18 14:28:31,734 INFO read-write_client.py Response read
+2022-12-18 14:28:31,734 INFO read-write_client.py write_user test
+2022-12-18 14:28:35,458 INFO read-write_client.py message_sent
+2022-12-18 14:28:35,551 INFO read-write_client.py response received
+2022-12-18 14:28:35,551 INFO read-write_client.py Response read
+2022-12-18 14:28:35,551 INFO read-write_client.py write_user some more
