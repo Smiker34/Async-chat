@@ -1,10 +1,10 @@
-2022-12-18 14:28:28,514 INFO read-write_client.py host: localhost, port: 7777
-2022-12-18 14:28:28,518 INFO read-write_client.py Message created
-2022-12-18 14:28:31,567 INFO read-write_client.py message_sent
-2022-12-18 14:28:31,734 INFO read-write_client.py response received
-2022-12-18 14:28:31,734 INFO read-write_client.py Response read
-2022-12-18 14:28:31,734 INFO read-write_client.py write_user test
-2022-12-18 14:28:35,458 INFO read-write_client.py message_sent
-2022-12-18 14:28:35,551 INFO read-write_client.py response received
-2022-12-18 14:28:35,551 INFO read-write_client.py Response read
-2022-12-18 14:28:35,551 INFO read-write_client.py write_user some more
+2022-12-25 18:01:58,777 INFO log_decorator.py Function arg_parser was called from main
+2022-12-25 18:01:58,777 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2022-12-25 18:02:01,327 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2022-12-25 18:02:01,331 INFO class_client.py Сформировано "PRESENCE" сообщение для пользователя test
+2022-12-25 18:02:01,332 INFO log_decorator.py Function create_presence was called from main
+2022-12-25 18:02:01,332 INFO log_decorator.py Function create_presence(('test',), {}), return b'{"ACTION": "PRESENCE", "TIME": "1671980521.3312716", "USER": {"ACCOUNT_NAME": "test"}}'
+2022-12-25 18:02:01,832 INFO log_decorator.py Function process_response_ans was called from main
+2022-12-25 18:02:01,832 INFO log_decorator.py Function process_response_ans((b'{"RESPONSE": "200"}',), {}), return 200 : OK
+2022-12-25 18:02:01,832 INFO class_client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-12-25 18:02:13,008 INFO class_client.py Завершение работы по команде пользователя.
