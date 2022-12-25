@@ -6,7 +6,7 @@ logger = logging.getLogger('server')
 
 logger.setLevel(logging.INFO)
 
-file_handler = logging.handlers.TimedRotatingFileHandler("../log/server logs.log", encoding='utf8', interval=1, when='D')
+file_handler = logging.handlers.TimedRotatingFileHandler("./log/server logs.log", encoding='utf8', interval=1, when='D')
 
 log_format = logging.Formatter('%(asctime)s %(levelname)s %(filename)s %(message)s')
 
