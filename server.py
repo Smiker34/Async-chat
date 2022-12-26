@@ -4,7 +4,7 @@ import sys
 import json
 import select
 
-sys.path.append('../log')
+sys.path.append('./log')
 
 
 from server_log_config import logger

@@ -1,9 +1,6 @@
 import unittest
 import time
-import sys
 import threading
-
-sys.path.append('../Lesson 3')
 
 from client import *
 from server import *

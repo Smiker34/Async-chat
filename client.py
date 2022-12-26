@@ -3,7 +3,7 @@ import sys
 import time
 import json
 
-sys.path.append('../log')
+sys.path.append('./log')
 
 
 from client_log_config import logger

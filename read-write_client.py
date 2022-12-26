@@ -4,7 +4,7 @@ import time
 import json
 import threading
 
-sys.path.append('../log')
+sys.path.append('./log')
 
 
 from client_log_config import logger
