@@ -8,3 +8,10 @@
 2022-12-18 14:28:35,551 INFO read-write_client.py response received
 2022-12-18 14:28:35,551 INFO read-write_client.py Response read
 2022-12-18 14:28:35,551 INFO read-write_client.py write_user some more
+2022-12-25 12:07:36,651 INFO client.py host: localhost, port: 7777
+2022-12-25 12:08:03,583 CRITICAL read-write_client.py Incorrect port
+2022-12-25 12:08:03,584 CRITICAL read-write_client.py Incorrect port
+2022-12-25 12:08:22,250 CRITICAL read-write_client.py Incorrect port
+2022-12-25 12:08:22,255 CRITICAL read-write_client.py Incorrect port
+2022-12-25 12:08:22,269 CRITICAL read-write_client.py Incorrect port
+2022-12-25 12:08:49,267 CRITICAL read-write_client.py Incorrect port

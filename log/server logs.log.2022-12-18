@@ -1,0 +1,131 @@
+2022-12-18 14:28:25,885 INFO server.py host: localhost, port: 7777
+2022-12-18 14:28:26,110 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:26,110 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:26,311 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:26,311 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:26,513 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:26,513 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:26,718 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:26,718 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:26,919 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:26,919 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:27,119 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:27,119 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:27,320 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:27,321 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:27,522 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:27,522 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:27,723 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:27,723 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:27,923 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:27,923 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:28,124 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:28,124 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:28,325 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:28,325 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:28,518 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:28,519 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:28,719 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:28,719 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:28,921 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:28,921 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:29,121 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:29,121 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:29,323 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:29,323 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:29,525 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:29,525 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:29,725 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:29,725 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:29,926 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:29,926 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:30,127 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:30,127 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:30,328 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:30,328 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:30,529 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:30,529 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:30,730 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:30,730 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:30,931 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:30,931 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:31,132 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:31,132 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:31,332 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:31,332 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:31,533 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:31,533 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:31,733 INFO server.py message received
+2022-12-18 14:28:31,733 INFO server.py {'action': 'msg', 'time': '1671362911.5674973', 'user': 'write_user', 'message': 'test'}
+2022-12-18 14:28:31,733 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:31,734 INFO log_decorator.py Function read_requests(([<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return {<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>: {'action': 'msg', 'time': '1671362911.5674973', 'user': 'write_user', 'message': 'test'}}
+2022-12-18 14:28:31,734 INFO log_decorator.py Function write_responses was called from server_main
+2022-12-18 14:28:31,735 INFO log_decorator.py Function write_responses(({<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>: {'action': 'msg', 'time': '1671362911.5674973', 'user': 'write_user', 'message': 'test'}}, [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:31,936 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:31,936 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:32,136 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:32,136 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:32,337 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:32,337 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:32,537 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:32,537 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:32,738 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:32,738 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:32,938 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:32,938 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:33,139 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:33,139 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:33,341 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:33,341 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:33,541 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:33,541 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:33,743 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:33,743 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:33,944 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:33,944 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:34,144 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:34,144 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:34,345 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:34,345 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:34,546 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:34,546 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:34,747 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:34,747 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:34,947 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:34,947 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:35,148 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:35,148 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:35,349 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:35,349 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:35,550 INFO server.py message received
+2022-12-18 14:28:35,550 INFO server.py {'action': 'msg', 'time': '1671362915.458047', 'user': 'write_user', 'message': 'some more'}
+2022-12-18 14:28:35,550 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:35,551 INFO log_decorator.py Function read_requests(([<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return {<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>: {'action': 'msg', 'time': '1671362915.458047', 'user': 'write_user', 'message': 'some more'}}
+2022-12-18 14:28:35,551 INFO log_decorator.py Function write_responses was called from server_main
+2022-12-18 14:28:35,551 INFO log_decorator.py Function write_responses(({<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>: {'action': 'msg', 'time': '1671362915.458047', 'user': 'write_user', 'message': 'some more'}}, [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:35,753 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:35,753 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:35,953 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:35,953 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:36,154 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:36,154 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:36,355 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:36,355 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:36,555 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:36,555 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:36,756 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:36,756 INFO log_decorator.py Function read_requests(([], [<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>]), {}), return None
+2022-12-18 14:28:36,956 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:36,956 INFO log_decorator.py Function read_requests(([<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51859)>], []), {}), return {}
+2022-12-18 14:28:37,158 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:37,158 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:37,358 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:37,358 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:37,559 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:37,559 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:37,759 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:37,759 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:37,960 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:37,960 INFO log_decorator.py Function read_requests(([], []), {}), return None
+2022-12-18 14:28:38,160 INFO log_decorator.py Function read_requests was called from server_main
+2022-12-18 14:28:38,160 INFO log_decorator.py Function read_requests(([], []), {}), return None
