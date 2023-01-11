@@ -6,13 +6,14 @@ import logging
 import select
 import time
 
-sys.path.append('../log')
+sys.path.append('./log')
 
 
 from server_log_config import logger
 from log_decorator import *
 from descript import Port
 from meta_classes import ServerMaker
+from server_db import Storage
 
 
 @logging
@@ -29,9 +30,10 @@ def arg_parser():
 class Server(metaclass=ServerMaker):
     port = Port()
 
-    def __init__(self, listen_address, listen_port):
+    def __init__(self, listen_address, listen_port, database):
         self.addr = listen_address
         self.port = listen_port
+        self.database = database
         self.clients = []
         self.messages = []
         self.names = []
@@ -99,6 +101,8 @@ class Server(metaclass=ServerMaker):
         if "ACTION" in message and message["ACTION"] == "PRESENCE" and "TIME" in message and "USER" in message:
             if message["USER"]["ACCOUNT_NAME"] not in self.names:
                 self.names.append(message["USER"]["ACCOUNT_NAME"])
+                client_ip, client_port = client.getpeername()
+                self.database.user_login(message["USER"]["ACCOUNT_NAME"], client_ip, client_port)
                 client.send(json.dumps({"RESPONSE": "200"}).encode("utf-8"))
             else:
                 response = {"RESPONSE": "400"}
@@ -112,6 +116,7 @@ class Server(metaclass=ServerMaker):
             self.messages.append(message)
             return
         elif "ACTION" in message and message["ACTION"] == "EXIT" and "ACCOUNT_NAME" in message:
+            self.database.user_logout(message["ACCOUNT_NAME"])
             self.clients.remove(self.names[ACCOUNT_NAME])
             self.names["ACCOUNT_NAME"].close()
             del self.names["ACCOUNT_NAME"]
@@ -125,7 +130,8 @@ class Server(metaclass=ServerMaker):
 
 def main():
     listen_address, listen_port = arg_parser()
-    server = Server(listen_address, listen_port)
+    database = Storage()
+    server = Server(listen_address, listen_port, database)
     server.main_loop()
 
 

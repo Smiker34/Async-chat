@@ -1,0 +1,10 @@
+2023-01-11 11:18:52,395 INFO log_decorator.py Function arg_parser was called from main
+2023-01-11 11:18:52,395 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-11 11:18:57,954 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-11 11:18:57,959 INFO class_client.py Сформировано "PRESENCE" сообщение для пользователя test
+2023-01-11 11:18:57,959 INFO log_decorator.py Function create_presence was called from main
+2023-01-11 11:18:57,965 INFO log_decorator.py Function create_presence(('test',), {}), return b'{"ACTION": "PRESENCE", "TIME": "1673425137.959986", "USER": {"ACCOUNT_NAME": "test"}}'
+2023-01-11 11:18:58,487 INFO log_decorator.py Function process_response_ans was called from main
+2023-01-11 11:18:58,487 INFO log_decorator.py Function process_response_ans((b'{"RESPONSE": "200"}',), {}), return 200 : OK
+2023-01-11 11:18:58,487 INFO class_client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2023-01-11 11:19:02,926 INFO class_client.py Завершение работы по команде пользователя.
