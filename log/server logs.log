@@ -1,7 +1,30 @@
-2023-01-11 11:18:40,850 INFO log_decorator.py Function arg_parser was called from main
-2023-01-11 11:18:40,850 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777)
-2023-01-11 11:18:40,881 INFO class_server.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: localhost.
-2023-01-11 11:18:57,959 INFO class_server.py Установлено соедение с ПК ('127.0.0.1', 55884)
-2023-01-11 11:18:58,460 INFO class_server.py Разбор сообщения от клиента : b'{"ACTION": "PRESENCE", "TIME": "1673425137.959986", "USER": {"ACCOUNT_NAME": "test"}}'
-2023-01-11 11:19:02,991 INFO class_server.py Разбор сообщения от клиента : b'{"ACTION": "EXIT", "TIME": "1673425142.9268599", "ACCOUNT_NAME": "test"}'
-2023-01-11 11:19:03,002 INFO class_server.py Клиент ('127.0.0.1', 55884) отключился от сервера.
+2023-01-14 12:47:00,908 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:47:00,909 INFO log_decorator.py Function arg_parser(('7777', ''), {}), return ('', 7777)
+2023-01-14 12:47:34,040 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:47:34,040 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 12:49:30,883 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:49:30,883 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 12:50:16,189 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:50:16,190 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 12:50:50,814 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:50:50,815 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 12:55:27,583 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:55:27,583 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 12:58:09,099 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:58:09,099 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 13:08:49,412 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:08:49,412 INFO log_decorator.py Function arg_parser(('7777', ''), {}), return ('', 7777)
+2023-01-14 13:11:15,941 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:11:15,942 INFO log_decorator.py Function arg_parser(('7777', ''), {}), return ('', 7777)
+2023-01-14 13:13:32,845 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:13:32,845 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 13:16:57,512 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:16:57,513 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 13:20:59,139 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:20:59,140 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 13:24:22,428 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:24:22,428 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
+2023-01-14 13:36:38,682 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:36:38,682 INFO log_decorator.py Function arg_parser(('7777', ''), {}), return ('', 7777)
+2023-01-14 13:54:21,492 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:54:21,492 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)

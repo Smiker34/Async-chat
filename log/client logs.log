@@ -8,3 +8,85 @@
 2023-01-11 11:18:58,487 INFO log_decorator.py Function process_response_ans((b'{"RESPONSE": "200"}',), {}), return 200 : OK
 2023-01-11 11:18:58,487 INFO class_client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
 2023-01-11 11:19:02,926 INFO class_client.py Завершение работы по команде пользователя.
+2023-01-14 12:01:21,385 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:01:21,386 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 12:58:23,605 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 12:58:23,605 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 12:58:26,891 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 12:58:28,896 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:02:33,993 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:02:33,993 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:02:36,575 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:02:38,582 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:04:41,308 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:04:41,308 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:04:44,898 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:04:46,903 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:09:08,454 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:09:08,454 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:09:11,589 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:09:13,595 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:11:40,379 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:11:40,379 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:11:47,773 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:11:49,780 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:12:07,645 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:12:07,645 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:12:11,002 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:12:13,008 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:17:09,019 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:17:09,019 INFO log_decorator.py Function arg_parser((), {}), return ('127.0.0.1', 7777, None)
+2023-01-14 13:17:11,472 INFO class_client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test
+2023-01-14 13:17:13,475 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:17:24,281 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:17:24,281 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:17:26,571 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:17:28,576 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:17:55,851 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:17:55,851 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:17:59,846 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:18:01,851 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:21:02,918 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:21:02,918 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:21:05,156 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:21:07,162 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:24:37,292 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:24:37,293 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:24:40,647 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:24:42,653 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:30:04,204 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:30:04,205 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:30:10,032 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test 1
+2023-01-14 13:30:12,039 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:30:29,602 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:30:29,603 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:30:33,430 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:30:35,436 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:30:52,030 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:30:52,030 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:31:04,743 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:31:06,752 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:36:43,308 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:36:43,308 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:36:46,002 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:36:47,007 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:38:41,242 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:38:41,243 INFO log_decorator.py Function arg_parser((), {}), return ('127.0.0.1', 7777, None)
+2023-01-14 13:38:45,743 INFO class_client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test
+2023-01-14 13:38:47,746 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:48:51,838 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:48:51,838 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:48:54,527 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:48:56,534 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:49:24,584 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:49:24,584 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:49:27,041 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:49:29,048 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:49:44,136 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:49:44,136 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:49:47,160 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:49:49,167 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-14 13:54:24,867 INFO log_decorator.py Function arg_parser was called from main
+2023-01-14 13:54:24,868 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-14 13:54:27,543 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-14 13:54:29,550 ERROR class_client.py Неудалось соединиться с сервером
