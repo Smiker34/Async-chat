@@ -1,5 +1,6 @@
 from sqlalchemy import create_engine, Table, Column, Integer, String, Text, MetaData, DateTime
 from sqlalchemy.orm import mapper, sessionmaker
+import os
 import datetime
 
 
@@ -23,7 +24,9 @@ class ClientDatabase:
             self.name = contact
 
     def __init__(self, name):
-        self.database_engine = create_engine(f'sqlite:///client_{name}.db3', echo=False, pool_recycle=7200,
+        path = os.path.dirname(os.path.realpath(__file__))
+        filename = f'client_{name}.sqlite'
+        self.database_engine = create_engine(f'sqlite:///{os.path.join(path, filename)}.sqlite', echo=False, pool_recycle=7200,
                                              connect_args={'check_same_thread': False})
         self.metadata = MetaData()
 

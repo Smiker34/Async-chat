@@ -90,3 +90,25 @@
 2023-01-14 13:54:24,868 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
 2023-01-14 13:54:27,543 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
 2023-01-14 13:54:29,550 ERROR class_client.py Неудалось соединиться с сервером
+2023-01-21 13:00:39,702 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-21 13:00:39,703 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-21 13:01:32,229 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-21 13:01:32,229 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-21 13:01:37,518 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: Test
+2023-01-21 13:02:47,823 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-21 13:02:47,823 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-21 13:02:52,587 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: Test
+2023-01-21 13:02:52,659 INFO transport.py Попытка подключения №1
+2023-01-21 13:02:55,666 INFO transport.py Попытка подключения №2
+2023-01-21 13:02:58,669 INFO transport.py Попытка подключения №3
+2023-01-21 13:03:01,681 INFO transport.py Попытка подключения №4
+2023-01-21 13:03:04,686 INFO transport.py Попытка подключения №5
+2023-01-21 13:03:34,801 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-21 13:03:34,801 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None)
+2023-01-21 13:03:39,331 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: Test
+2023-01-21 13:03:39,362 INFO transport.py Попытка подключения №1
+2023-01-21 13:03:42,369 INFO transport.py Попытка подключения №2
+2023-01-21 13:03:45,382 INFO transport.py Попытка подключения №3
+2023-01-21 13:03:48,385 INFO transport.py Попытка подключения №4
+2023-01-21 13:03:51,397 INFO transport.py Попытка подключения №5
+2023-01-21 13:03:54,410 CRITICAL transport.py Не удалось установить соединение с сервером
