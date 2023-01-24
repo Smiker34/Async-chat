@@ -56,5 +56,5 @@ class AddContactDialog(QDialog):
         except OSError:
             pass
         else:
-            logger.debug('Обновление списка пользователей с сервера выполнено')
+            logger.info('Обновление списка пользователей с сервера выполнено')
             self.possible_contacts_update()
