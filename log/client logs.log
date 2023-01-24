@@ -112,3 +112,34 @@
 2023-01-21 13:03:48,385 INFO transport.py Попытка подключения №4
 2023-01-21 13:03:51,397 INFO transport.py Попытка подключения №5
 2023-01-21 13:03:54,410 CRITICAL transport.py Не удалось установить соединение с сервером
+2023-01-24 15:29:43,056 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-24 15:29:43,056 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None, '')
+2023-01-24 15:32:57,408 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-24 15:32:57,408 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None, '')
+2023-01-24 15:33:52,204 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-24 15:33:52,205 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None, '')
+2023-01-24 15:33:57,504 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-24 15:33:57,504 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None, '')
+2023-01-24 15:34:20,244 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-24 15:34:20,244 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None, '')
+2023-01-24 15:34:25,098 INFO class_client.py Using USERNAME = test, PASSWD = test.
+2023-01-24 15:34:25,098 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-24 15:45:44,862 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-24 15:45:44,862 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None, '')
+2023-01-24 15:45:49,129 INFO class_client.py Using USERNAME = test, PASSWD = test.
+2023-01-24 15:45:49,130 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-24 15:45:49,350 INFO transport.py Попытка подключения №1
+2023-01-24 15:45:52,355 INFO transport.py Попытка подключения №2
+2023-01-24 15:45:55,368 INFO transport.py Попытка подключения №3
+2023-01-24 15:45:58,381 INFO transport.py Попытка подключения №4
+2023-01-24 15:46:01,384 INFO transport.py Попытка подключения №5
+2023-01-24 15:46:14,192 INFO log_decorator.py Function arg_parser was called from <module>
+2023-01-24 15:46:14,192 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777, None, '')
+2023-01-24 15:46:17,414 INFO class_client.py Using USERNAME = test, PASSWD = test.
+2023-01-24 15:46:17,414 INFO class_client.py Запущен клиент с парамертами: адрес сервера: localhost , порт: 7777, имя пользователя: test
+2023-01-24 15:46:17,633 INFO transport.py Попытка подключения №1
+2023-01-24 15:46:20,650 INFO transport.py Попытка подключения №2
+2023-01-24 15:46:23,664 INFO transport.py Попытка подключения №3
+2023-01-24 15:46:26,666 INFO transport.py Попытка подключения №4
+2023-01-24 15:46:29,668 INFO transport.py Попытка подключения №5
+2023-01-24 15:46:32,671 CRITICAL transport.py Не удалось установить соединение с сервером
