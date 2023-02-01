@@ -1,0 +1,5 @@
+setup.py
+client_chat_for_task.egg-info/PKG-INFO
+client_chat_for_task.egg-info/SOURCES.txt
+client_chat_for_task.egg-info/dependency_links.txt
+client_chat_for_task.egg-info/top_level.txt

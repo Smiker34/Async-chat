@@ -1,2 +1,0 @@
-2023-01-21 13:03:28,959 INFO log_decorator.py Function arg_parser was called from main
-2023-01-21 13:03:28,960 INFO log_decorator.py Function arg_parser(('7777', 'localhost'), {}), return ('localhost', 7777)
