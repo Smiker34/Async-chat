@@ -1,7 +1,0 @@
-2022-12-25 18:01:56,382 INFO log_decorator.py Function arg_parser was called from main
-2022-12-25 18:01:56,382 INFO log_decorator.py Function arg_parser((), {}), return ('localhost', 7777)
-2022-12-25 18:01:56,383 INFO class_server.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: localhost.
-2022-12-25 18:02:01,331 INFO class_server.py Установлено соедение с ПК ('127.0.0.1', 54469)
-2022-12-25 18:02:01,831 INFO class_server.py Разбор сообщения от клиента : b'{"ACTION": "PRESENCE", "TIME": "1671980521.3312716", "USER": {"ACCOUNT_NAME": "test"}}'
-2022-12-25 18:02:13,345 INFO class_server.py Разбор сообщения от клиента : b'{"ACTION": "EXIT", "TIME": "1671980533.0074213", "ACCOUNT_NAME": "test"}'
-2022-12-25 18:02:13,345 INFO class_server.py Клиент ('127.0.0.1', 54469) отключился от сервера.
